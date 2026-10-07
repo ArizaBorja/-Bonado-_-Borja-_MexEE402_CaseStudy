@@ -8,8 +8,8 @@ Batangas State University, Alangilan Campus
 
 | Name | Student Number | Section |
 |---|---|---|
-| Surname, First Name | | |
-| Surname, First Name | | |
+| Bonado, Lance Exequiel | 23-07326 | MEXE-4102 |
+| Borja, Ariza Mae | 23-09405 | MEXE-4102|
 
 ## Notebook links
 
