@@ -53,6 +53,7 @@ In this chapter, it made us realize how important it is to adjust model settings
 
 In this chapter, We learned that preprocessing data is like an assembly line where the order of operations and data types matter completely. It surprised us because of how changing numerical data into categories, such as different age groups, can make the information easier to understand and compare.
 
+---
 
 ## ⚠️ Errors we found
 
@@ -71,7 +72,7 @@ The code runs without crashing, but it runs into a issue because your dataset on
 Converting Age into text labels like Child breaks the numerical pipeline, as it expects numbers to calculate medians and scale values. Applying this age discretization after preprocessing alters the original dataset while leaving one-hot encoded columns in the output array, which incorrectly shifts column index 2 from Age to a Pclass variable during plotting. Finally, filling missing Pclass values with the text string 'missing' creates a type mismatch with its numeric data.
 
 
-
+---
 ## 🤖 Note on AI tools
 
 We used Gemini as an AI tool to help us check for errors in the code for each chapter. We used the prompt, “Act as an experienced programmer and carefully check the code below for syntax errors, logic errors, and incorrect commands or variables. Explain each error simply. If there are none, simply say that the code is correct. Give your answer in only one paragraph.” We also used Gemini and ChatGPT to help us understand the questions and improve our answers by explaining what the questions were asking and helping us organize our ideas. We did not use the AI to replace our understanding of the code or questions; we used it as a guide to identify errors, understand the lessons, and refine our answers.
