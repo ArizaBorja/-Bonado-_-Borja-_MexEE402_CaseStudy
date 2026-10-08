@@ -13,15 +13,15 @@ Batangas State University, Alangilan Campus
 
 ## Notebook links
 
-| Chapter | Member 1 | Member 2 |
-|---|---|---|
-| Ch1_2_3 | [link](https://colab.research.google.com/drive/1bSbDPa-42N8aKf8HrlIZ6h0mt-D5fOas?usp=sharing) | [link]() |
-| Ch4 | [link]() | [link]() |
-| Ch5 | [link]() | [link]() |
-| Ch6 | [link]() | [link]() |
-| Ch7 | [link]() | [link]() |
-| Ch8 | [link]() | [link]() |
-| Ch9 | [link]() | [link]() |
+| Chapter | Member 1 and Member2 | 
+|---|---|
+| Ch1_2_3 | [link](https://colab.research.google.com/drive/1bSbDPa-42N8aKf8HrlIZ6h0mt-D5fOas?usp=sharing) | 
+| Ch4 | [link](https://colab.research.google.com/drive/1mOd8t9PrOxiI4VBW41erXWWq4vpptUFn?usp=sharing) |
+| Ch5 | [link](https://colab.research.google.com/drive/1Quv1GaV8TllQ2OSIIZoA-Ze_uTJlf-Zm?usp=sharing) | 
+| Ch6 | [link]() | 
+| Ch7 | [link]() | 
+| Ch8 | [link]() | 
+| Ch9 | [link]() | 
 
 ## What we learned
 
