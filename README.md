@@ -1,17 +1,17 @@
-# MexEE 402: Data Preprocessing Case Study
+# 📊 MexEE 402: Data Preprocessing Case Study
 
-MexEE Elective 2: Data Science and Machine Learning
-Batangas State University, Alangilan Campus
-1st Semester, AY 2026-2027
+**MexEE Elective 2: Data Science and Machine Learning**  
+**Batangas State University, Alangilan Campus**  
+**1st Semester, AY 2026–2027**
 
-## Members
+## 👥 Members
 
 | Name | Student Number | Section |
 |---|---|---|
 | Bonado, Lance Exequiel | 23-07326 | MEXE-4102 |
 | Borja, Ariza Mae | 23-09405 | MEXE-4102|
 
-## Notebook links
+## 📓 Notebook links
 
 | Chapter | Member 1 and Member2 | 
 |---|---|
@@ -23,7 +23,7 @@ Batangas State University, Alangilan Campus
 | Ch8 | [link](https://colab.research.google.com/drive/1uP0FrHuPT0wdTK9tfVFxnYdqqWUbrZ4R?usp=sharing) | 
 | Ch9 | [link](https://colab.research.google.com/drive/1hAUbiuy2FDV0yht5Cvp1ZoK6z70tsm7v?usp=sharing) | 
 
-## What we learned
+# 📚 What we learned
 
  **Chapter 1_2_3** 
 
@@ -39,7 +39,7 @@ In this chapter, we get a much better grip of what scaling is and how important 
 
 **Chapter 6**
 
-In this chapter, we learned more about outliers and how important it is to identify unusual values in a dataset. At first, we thought that an unusual value could simply be ignored, but we realized that it can affect the results and give inaccurate information. What surprised me in this chapter is that there are different ways to identify outliers, such as using the Z-score and IQR, and they do not always give the same result.
+In this chapter, we learned more about outliers and how important it is to identify unusual values in a dataset. At first, we thought that an unusual value could simply be ignored, but we realized that it can affect the results and give inaccurate information. What surprised us in this chapter is that there are different ways to identify outliers, such as using the Z-score and IQR, and they do not always give the same result.
 
 **Chapter 7**
 
@@ -54,7 +54,7 @@ In this chapter, it made us realize how important it is to adjust model settings
 In this chapter, We learned that preprocessing data is like an assembly line where the order of operations and data types matter completely. It surprised us because of how changing numerical data into categories, such as different age groups, can make the information easier to understand and compare.
 
 
-## Errors we found
+## ⚠️ Errors we found
 
 ### For Chapter 6
 
@@ -72,11 +72,11 @@ Converting Age into text labels like Child breaks the numerical pipeline, as it 
 
 
 
-## Note on AI tools
+## 🤖 Note on AI tools
 
 We used Gemini as an AI tool to help us check for errors in the code for each chapter. We used the prompt, “Act as an experienced programmer and carefully check the code below for syntax errors, logic errors, and incorrect commands or variables. Explain each error simply. If there are none, simply say that the code is correct. Give your answer in only one paragraph.” We also used Gemini and ChatGPT to help us understand the questions and improve our answers by explaining what the questions were asking and helping us organize our ideas. We did not use the AI to replace our understanding of the code or questions; we used it as a guide to identify errors, understand the lessons, and refine our answers.
 
-## References
+## 📖 References
 
 McKinney, W. (2021). Python for Data Analysis, 3rd ed. O'Reilly.
 VanderPlas, J. Python Data Science Handbook.
